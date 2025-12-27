@@ -1,5 +1,5 @@
-# Task Tracker 📝  
-Task Tracker v2 – a modern, minimalistic task management application built with React.
+# Task manager 📝  
+Task manager v2 – a modern, minimalistic task management application built with React.
 
 This is the second iteration of the project, fully refactored from vanilla JavaScript into React, introducing enhanced functionality and a more structured codebase. Key features in this version include:
 
@@ -18,12 +18,12 @@ Built for efficiency and simplicity, Task Tracker v2 helps you stay organized an
 ---
 
 ## 🚀 Features  
-✅ Add new tasks with description, due date, and priority  
-✏️ Mark tasks as done/undone  
-🗑️ Delete single tasks  
-🧹 Clear all tasks  
-📊 Track total and completed task statistics  
-↕️ Sort tasks by input order, finished status, priority, or date  
+- ✅ Add new tasks with description, due date, and priority  
+- ✏️ Mark tasks as done/undone  
+- 🗑️ Delete single tasks  
+- 🧹 Clear all tasks  
+- 📊 Track total and completed task statistics  
+- ↕️ Sort tasks by input order, finished status, priority, or date  
 
 ---
 
